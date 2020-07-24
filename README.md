@@ -12,7 +12,7 @@
 ```javascript
 const xKatooo = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java, Bash],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java, Bash, C#, C++],
   tools: [React, Angular, Node, React, Docker, MySQL, MongoDB],
   architecture: ["design system pattern"],
   preprocessor: ["SASS", "LESS"],
