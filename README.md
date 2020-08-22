@@ -14,13 +14,9 @@ const xKatooo = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java, Bash, C#, C++],
   tools: [React, Angular, Node, Vue, Docker, MySQL, MongoDB],
-  architecture: ["design system pattern"],
   preprocessor: ["SASS", "LESS"],
-  techCommunities: {
-                        Organizer: "KatoCrew",
-                        
-                      },
- challenge: "My challenge is to get information about cybersecurity to most of the world to keep them safe, also to make programs that make people's lives easier"
+  organizaciones: ["KatoCrew", "TeamCodePhoenix", "KatoIndustries"],
+  challenge: "My challenge is to get information about cybersecurity to most of the world to keep them safe, also to make programs that make people's lives easier"
 }
 ```
 ## 📫 Contact Me
