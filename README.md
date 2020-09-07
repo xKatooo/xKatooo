@@ -27,3 +27,5 @@ const xKatooo = {
 ---
 
 ⭐️ From [@xKatooo](https://github.com/xKatooo) 
+
+<img src="https://placewaifu.com/image/200" />
