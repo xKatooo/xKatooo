@@ -30,4 +30,4 @@ const xKatooo = {
 
 Waifu randooom >//< 
 <br><br>
-<img src="https://placewaifu.com/image/200" />
+<img src="https://placewaifu.com/image/200"/>
