@@ -34,4 +34,4 @@ Waifu randooom >//<
 <img src="https://placewaifu.com/image/200"/>
 
 
-#### Aqui abajo tienen pineados algún de mis trabajos ❤️
+#### Aqui abajo tienen pineados algúnos de mis trabajos ❤️
