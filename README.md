@@ -32,3 +32,6 @@ const xKatooo = {
 Waifu randooom >//< 
 <br><br>
 <img src="https://placewaifu.com/image/200"/>
+
+
+<h2>aqui abajo tienen pineados algún de mis trabajos ❤️</h2>
