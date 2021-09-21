@@ -15,8 +15,7 @@ const xKatooo = {
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java, Bash, C#, C++],
   tools: [React, Angular, Node, Vue, Docker, MySQL, MongoDB],
   preprocessor: ["SASS", "LESS"],
-  proyects: ["GoPlay", "SpMail", "WebTest"],
-  organizations: ["KatoCrew", "TeamCodePhoenix", "KatoIndustries", "GoPlay"],
+  organizations: ["KatoCrew"],
   challenge: "My challenge is to get information about cybersecurity to most of the world to keep them safe, also to make programs that make people's lives easier"
 }
 ```
