@@ -1,18 +1,16 @@
-<h2> Hi, I'm Eusebio Cervantes (Kato)! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1>Introduction <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<img align='right' src="https://scontent.fmex21-1.fna.fbcdn.net/v/t1.0-0/p526x296/115823299_611041236474142_8568436406017063980_o.jpg?_nc_cat=102&_nc_sid=8bfeb9&_nc_eui2=AeHQLedb8u-v2DpIIo6XKN5SlIQOjFvIhzyUhA6MW8iHPLAPdybkVJvGvr4zyCovVq9tleyoQummmH_7IzGiA7zA&_nc_ohc=iERJFvMM--YAX8uKntV&_nc_ht=scontent.fmex21-1.fna&_nc_tp=6&oh=60036664507addc2e7c9f6dfa1944a57&oe=5F3D7AF8" width="23%">
-<p><em>I am currently 18 years old, I live in Mexico. I program with passion and with the intention of contributing something that works for someone</em></p>
 
-[![Twitter: eu5ebio7w7](https://img.shields.io/twitter/follow/eu5ebio7w7?style=social)](https://twitter.com/eu5ebio7w7)
-[![GitHub eu5ebio7w7](https://img.shields.io/github/followers/xKatooo?label=follow&style=social)](https://github.com/xKatooo)
+![status](https://img.shields.io/badge/status-on-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/xKatooo)
 
+<p><em>My name is Eusebio Cervantes (Kato), i am from mexico, im now 20 yo</em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const xKatooo = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java, Bash, C#, C++],
+  languajes: [Javascript, Typescript, HTML, CSS, PHP, Python, Bash],
   tools: [React, Angular, Node, Vue, Docker, MySQL, MongoDB],
   preprocessor: ["SASS", "LESS"],
   organizations: ["KatoCrew"],
@@ -20,8 +18,8 @@ const xKatooo = {
 }
 ```
 ## 📫 Contact Me
-- Twitter - [@eu5ebio7w7](https://twitter.com/eu5ebio7w7)
-- Facebook - [Eusebio Cervantes Bv](https://facebook.com/eu5ebio7w7/)
+- Twitter - [@xKato0o](https://twitter.com/xKato0o)
+- Facebook - [Eusebio Cervantes Yggdmillennia](https://facebook.com/xKatooo/)
 - Web - <a href="https://xKatooo.github.io/">Mi web de github</a>
 
 ---
